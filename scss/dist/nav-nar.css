@@ -1,0 +1,19 @@
+.conmtiner_my {
+  margin: 0 auto;
+  width: 1320px;
+  padding: 0 10px;
+}
+
+ul {
+  list-style: none;
+}
+
+.navigation_a {
+  color: #000;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 15px;
+  letter-spacing: 1.4px;
+}
+
+/*# sourceMappingURL=nav-nar.css.map */

@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+ul {
+  list-style: none;
+}
+
+.conmtiner_my {
+  margin: 0 auto;
+  width: 1320px;
+  padding: 0 10px;
+}
+
+.gap-24 {
+  gap: 24px;
+}
+
+@font-face {
+  font-family: "Roboto" sans-serif;
+  src: url("../Jost_Roboto/Jost/Jost-Italic-VariableFont_wght.ttf");
+}
+
+/*# sourceMappingURL=default.css.map */

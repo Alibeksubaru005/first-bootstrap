@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["style.scss"],"sourcesContent":["@import \"./default.scss\";\r\n@import \"./nav-nar.scss\";\r\n@import \"./desk_shelf.scss\";\r\n@import \"./deskitop.scss\";\r\n@import \"./officc.scss\";\r\n@import \"./mack.scss\";\r\n@import \"./make_wrck.scss\";\r\n@import \"./footer.scss\";"],"file":"style.css"}

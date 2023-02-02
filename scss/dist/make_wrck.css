@@ -1,0 +1,70 @@
+.conmtiner_my {
+  margin: 0 auto;
+  width: 1320px;
+  padding: 0 10px;
+}
+
+.make_worck ul {
+  justify-content: center;
+}
+
+.make_worck h2 {
+  font-weight: 400;
+  font-size: 34px;
+  line-height: 36px;
+}
+
+.make_worck p {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  display: inline-block;
+  color: #a0a0a0;
+  width: 789px;
+  margin-bottom: 79px;
+}
+
+.mb_124 {
+  margin-bottom: 124px;
+}
+
+.we_hope {
+  padding: 120px 0;
+}
+
+.we_hope h2 {
+  font-weight: 400;
+  font-size: 34px;
+  line-height: 36px;
+  margin-bottom: 44px;
+}
+
+.we_hope p {
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 21px;
+  margin-bottom: 240px;
+}
+
+.we_hope .box_text {
+  padding: 120px 0 120px 0;
+}
+
+.we_hope .box_text img {
+  margin-bottom: 24px;
+}
+
+.we_hope .box_text h3 {
+  font-weight: 400;
+  font-size: 43px;
+  line-height: 58px;
+  color: #fff;
+  margin-bottom: 23px;
+}
+
+.we_hope .box_text p {
+  margin: 0;
+  color: #fff;
+}
+
+/*# sourceMappingURL=make_wrck.css.map */
